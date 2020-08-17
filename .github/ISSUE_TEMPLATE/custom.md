@@ -1,10 +1,7 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
+问题标题 ：概要性标题 重点错误信息 
+描述： 发生问题的描述性语言。
+版本 ：发生问题的 Mongodb  或者驱动版本
+复现 ：如何复现
+文件： 上传必要的日志文件及诊断信息
 
 
