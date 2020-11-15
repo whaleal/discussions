@@ -1,0 +1,9 @@
+.loader{
+  display: block;
+  text-align: center;
+  margin-top: 20px;
+  :global(.loader){
+    line-height: 60px;
+    margin:0 auto;
+  }
+}
