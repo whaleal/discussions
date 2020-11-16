@@ -1,6 +1,7 @@
 # Discussion-for-MongoDB	
 
-Mongodb  常见问题讨论区   	
+Mongodb  常见问题讨论区  
+推荐大家 Watch  该项目,或者收藏该网页。  
 [![question](https://cloud.githubusercontent.com/assets/1147451/7267465/5c872b74-e8ee-11e4-9005-ba60df38b0fa.png)	
 ](https://github.com/JinMuInfo/Discussion-for-MongoDB/issues/new)	
 [![list0](https://cloud.githubusercontent.com/assets/1147451/7267590/002c36ec-e8f0-11e4-8ebc-90d34321657d.png)](https://github.com/JinMuInfo/Discussion-for-MongoDB/issues)	
